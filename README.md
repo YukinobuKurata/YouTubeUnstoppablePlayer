@@ -5,15 +5,19 @@ YouTubeUnstoppablePlayer
 
 <iframe>タグの埋め込みコードをつかったHTML5形式の動画プレーヤーです。
 
-解説ページ
+解説ページ<br />
 http://
 
-倉田幸暢(Yukinobu Kurata)
+倉田幸暢(Yukinobu Kurata)<br />
 http://wisdommingle.com
 
-Copyright (c) 2013 Yukinobu Kurata
-Released under the MIT license
+Copyright (c) 2013 Yukinobu Kurata<br />
+Released under the MIT license<br />
 https://github.com/YukinobuKurata/YouTubeUnstoppablePlayer/blob/master/MIT-LICENSE.txt
 
-MITライセンスについて
+MITライセンスについて<br />
 http://wisdommingle.com/mit-license/
+
+
+
+
