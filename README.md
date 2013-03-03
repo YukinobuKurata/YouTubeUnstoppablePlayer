@@ -6,7 +6,7 @@ YouTubeUnstoppablePlayer
 <iframe>タグの埋め込みコードをつかったHTML5形式の動画プレーヤーです。
 
 解説ページ<br />
-http://
+http://wisdommingle.com/youtube-iframe-api-player-video-unstoppable-player/
 
 倉田幸暢(Yukinobu Kurata)<br />
 http://wisdommingle.com
