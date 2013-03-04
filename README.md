@@ -1,7 +1,7 @@
 YouTubeUnstoppablePlayer
 ========================
 
-「YouTube動画の一時停止ができないようにする仕組み（HTML、IFrameプレーヤーAPI（JavaScript）、CSS）」
+「YouTube動画の一時停止ができないようにする仕組み （IFrameプレーヤーAPI（JavaScript））」
 
 <iframe>タグの埋め込みコードをつかったHTML5形式の動画プレーヤーです。
 
