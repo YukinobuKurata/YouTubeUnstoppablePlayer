@@ -1,7 +1,7 @@
 YouTubeUnstoppablePlayer
 ========================
 
-「YouTube動画を一時停止不可&amp;コントロールバー非表示にする仕組み （HTML、IFrameプレーヤーAPI（JavaScript）、CSS）」
+「YouTube動画の一時停止を不可にしてコントロールバーを非表示にする仕組み （HTML、IFrameプレーヤーAPI（JavaScript）、CSS）」
 
 <iframe>タグの埋め込みコードをつかったHTML5形式の動画プレーヤーです。
 
